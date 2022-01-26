@@ -1,7 +1,0 @@
-html {
-  box-sizing: border-box;
-  font-family: 'Cascadia Code',sans-serif;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
